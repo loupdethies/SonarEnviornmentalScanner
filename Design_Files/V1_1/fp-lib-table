@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "SonLandFootprints")(type "KiCad")(uri "${KIPRJMOD}/SonarLandscapeScannerFootprints.pretty")(options "")(descr "Footprints für das aktuelle Projekt"))
+)

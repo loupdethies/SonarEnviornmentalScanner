@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ComponentSymbSLS")(type "KiCad")(uri "${KIPRJMOD}/ComponentSymbSLS_short.kicad_sym")(options "")(descr ""))
+)

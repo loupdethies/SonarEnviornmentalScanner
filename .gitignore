@@ -1,0 +1,206 @@
+# =====================================
+
+# Allgemein / OS
+
+# =====================================
+
+# Windows
+
+Thumbs.db
+
+# macOS
+
+.DS\_Store
+
+# =====================================
+
+# Editor- und IDE-Backups
+
+# =====================================
+
+\*\~                # Backup-Dateien
+\*.bak
+\*.tmp
+\*.temp
+\*.swp             # vim / vi swap files
+
+# VSCode
+
+.vscode/
+
+# IntelliJ / PyCharm
+
+.idea/
+
+# =====================================
+
+# Python-Umgebung
+
+# =====================================
+
+# Byte-compiled / optimized / DLL files
+
+**pycache**/
+\*.py\[cod]
+\*\$py.class
+
+# Virtualenvs
+
+venv/
+.venv/
+env/
+ENV/
+
+# Packaging
+
+build/
+dist/
+\*.egg-info/
+.eggs/
+\*.egg
+pip-wheel-metadata/
+share/python-wheels/
+
+# pyenv
+
+.python-version
+
+# Test- & Analyse-Tools
+
+.pytest\_cache/
+.coverage
+.coverage.\*
+coverage.xml
+htmlcov/
+
+# Type-Checker
+
+.mypy\_cache/
+.dmypy.json
+
+# Linter-Caches
+
+.pylint.d/
+.ruff\_cache/
+
+# =====================================
+
+# C / C++
+
+# =====================================
+
+# Objekt- und Binary-Dateien
+
+\*.o
+\*.obj
+\*.ko
+\*.elf
+\*.out
+a.out
+
+# Statische Bibliotheken
+
+\*.a
+\*.lib
+
+# Dynamische Bibliotheken
+
+\*.so
+\*.dylib
+\*.dll
+
+# Debug-Informationen
+
+\*.dSYM/
+\*.d
+
+# Build- und Temp-Ordner
+
+build/
+cmake-build-\*/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+
+# Abhängigkeits-Dateien
+
+\*.d
+
+# =====================================
+
+# Logs, Datenbanken, Dumps
+
+# =====================================
+
+\*.log
+\*.sql
+\*.sqlite
+\*.db
+
+# =====================================
+
+# Environment-Dateien
+
+# =====================================
+
+.env
+
+# =====================================
+
+# KiCad – eigene Sektionen
+
+# =====================================
+
+# Backups und temporäre Dateien
+
+\*\~
+\*.bak
+\*.tmp
+\*.log
+
+# Cache- und Bibliothekstabellen
+
+fp-info-cache/
+sym-info-cache/
+cache/
+\*\_cache.lib
+
+# Exportierte Netlists, Gerber, Drill, Plot-Files
+
+\*.net
+\*.xml
+\*.dri
+\*.drp
+\*.gbr
+\*.gtl
+\*.gbl
+\*.gts
+\*.gbs
+\*.gm1
+\*.gko
+\*.drl
+\*.ps
+\*.pdf
+\*.svg
+\*.cdr
+\*.bom
+\*.csv
+
+# Sonstige temporäre Ordner
+
+\_exported/
+out/
+
+# =====================================
+
+# Weitere temporäre Files
+
+# =====================================
+
+# Globale Cache-Ordner
+
+.cache/
+
+# Compressed archives
+
+\*.zip

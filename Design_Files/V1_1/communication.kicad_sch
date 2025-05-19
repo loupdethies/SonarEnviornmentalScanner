@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "d92167ad-f19a-4769-a175-e788ef05f0a7")
+	(paper "A4")
+	(title_block
+		(title "Sonar Landscape Scanner")
+		(date "2025-02-19")
+		(rev "1/1")
+		(company "loupdethies")
+	)
+	(lib_symbols)
+)

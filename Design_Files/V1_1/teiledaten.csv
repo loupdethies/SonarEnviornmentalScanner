@@ -1,0 +1,4 @@
+# PartNumber,Value,Footprint,DatasheetUrl,Manufacturer
+810-GCM188R71C104KA37J,0.1 µF X7R 16 V,C_0603_1608Metric,https://www.mouser.com/datasheet/2/281/1/GCM188R71C104KA37_01A-3144197.pdf,Murata Electronics
+595-C1608X7R1H104K080AA,0.1 µF X7R 50 V,C_0603_1608Metric,https://product.tdk.com/info/en/catalog/datasheets/c/ap/c1608x7r1h104k080aa.pdf,TDK
+729-VJ0603Y104KXACW1BC,0.1 µF X7R 50 V,C_0603_1608Metric,https://www.vishay.com/docs/80/vj0603.pdf,Vishay

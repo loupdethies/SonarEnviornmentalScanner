@@ -1,0 +1,171 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "743b6484-ff79-4e84-a1fe-1cb6b0495646")
+	(paper "A3")
+	(title_block
+		(title "Sonar Landscape Scanner")
+		(date "2025-02-19")
+		(rev "1/1")
+		(company "loupdethies")
+	)
+	(lib_symbols)
+	(sheet
+		(at 151.13 35.56)
+		(size 36.83 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "297aa558-feb4-49d9-b15e-f93c309c2f01")
+		(property "Sheetname" "Sensor Unit"
+			(at 151.13 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Sensor_Unit.kicad_sch"
+			(at 151.13 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SonarLandscapeScanner"
+				(path "/743b6484-ff79-4e84-a1fe-1cb6b0495646"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 93.98 35.56)
+		(size 36.83 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "45f8c5ea-a558-4ea0-9b87-2ead40970c6c")
+		(property "Sheetname" "MCU_Unit"
+			(at 93.98 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU_Unit.kicad_sch"
+			(at 93.98 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SonarLandscapeScanner"
+				(path "/743b6484-ff79-4e84-a1fe-1cb6b0495646"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 41.91 35.56)
+		(size 36.83 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "83e11dee-2675-4190-b764-e11fb71b1763")
+		(property "Sheetname" "Power_Supply"
+			(at 41.91 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power_Supply.kicad_sch"
+			(at 41.91 72.9746 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SonarLandscapeScanner"
+				(path "/743b6484-ff79-4e84-a1fe-1cb6b0495646"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 207.01 35.56)
+		(size 40.64 35.56)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "dedbb5d2-486c-49cf-be3b-6a9ee0212f79")
+		(property "Sheetname" "Communication"
+			(at 207.01 34.8484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "communication.kicad_sch"
+			(at 207.01 71.7046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "SonarLandscapeScanner"
+				(path "/743b6484-ff79-4e84-a1fe-1cb6b0495646"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)

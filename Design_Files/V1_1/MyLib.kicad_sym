@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.3
+DEF # PartNumber Value 0 20 Y Y 2 L N
+F0 "Value" 1150 250 50 H V L CNN
+F1 "# PartNumber" 1150 150 50 H V L CNN
+F2 "Footprint" 1150 50 50 H I L CNN
+F3 "Manufacturer" 1150 -150 50 H I L CNN
+F4 "DatasheetUrl" 1150 -50 50 H I L CNN "manf#"
+DRAW
+X C_0603_1608Metric 595-C1608X7R1H104K080AA 0 0 1150 R 50 50 1 1 httpsproducttdkcominfoencatalogdatasheetscapc1608x7r1h104k080aapdf 
+S 1150 100 2100 -100 1 1 10 f
+X C_0603_1608Metric 729-VJ0603Y104KXACW1BC 0 0 1150 R 50 50 2 1 httpswwwvishaycomdocs80vj0603pdf 
+S 1150 100 2100 -100 2 1 10 f
+ENDDRAW
+ENDDEF
+#End Library
