@@ -2252,23 +2252,25 @@
 		)
 		(uuid "fc01f316-2186-4a7d-9b67-b63fd5ee8a4f")
 	)
-	(label "Sound_In_Right"
-		(at 180.34 140.97 0)
+	(global_label "Sound_In_Right"
+		(shape output)
+		(at 180.34 140.97 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
 		(uuid "17e7028b-f2ea-4028-b684-c6dacd8a9350")
 	)
-	(label "Sound_In_left"
-		(at 180.34 44.45 0)
+	(global_label "Sound_In_left"
+		(shape output)
+		(at 180.34 44.45 180)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify right)
 		)
 		(uuid "7c6996dd-4d0f-45a8-aa71-aa9690297219")
 	)

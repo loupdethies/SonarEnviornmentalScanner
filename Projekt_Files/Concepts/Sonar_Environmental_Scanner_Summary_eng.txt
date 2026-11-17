@@ -1,0 +1,40 @@
+Sonar Environmental Scanner – Project Summary
+
+**Project Description**
+The “Sonar Environmental Scanner” (SES) is a USB-powered, modular, portable sonar-based environmental scanning system for mapping gardens and detecting wildlife. It is designed to connect to a computer for signal processing and advanced environmental analysis.
+
+**Main Objectives**
+
+* Environmental monitoring via sonar reflections
+* Generating a map of trees, lawns and other objects
+* Detecting animals (e.g. birds, bats) by their sounds
+
+**Key Specifications**
+
+* **Frequency ranges:**
+
+  * Receiver: 40 kHz – 150 kHz
+  * Transmitter: 40 kHz – 80 kHz
+* **Sampling rate:** 1.5 Msamples/s
+* **Connection:** USB-C (optional Bluetooth or Wi-Fi)
+* **Power supply:** USB bus power or external power bank
+* **Data processing:** Digitized data processed on PC/laptop in C or Python
+* **Form factor:** Portable, no larger than DIN A5 – A4
+
+**Important Hardware Components**
+
+* **Microcontroller:** STM32F4 (STM32F411RET6)
+* **USB interface:** FT601Q-B-T (USB 3.1 to FIFO)
+* **Ultrasound transmitter:** MA40S4S (40 kHz)
+* **Microphone:** SPU0410LR5H-QB (MEMS)
+* **Power management:** STUSB4500QTR (USB power controller), LMR33630ADDAR (buck converter), LT1763CS8-2.5 (linear regulator)
+
+**Open Questions & Next Steps**
+
+* Final selection of frequency range and transducer design
+* Design of modular interfaces for additional sensors (e.g. temperature, air pressure, GPS)
+* Decision whether to perform signal processing on the microcontroller or on the PC
+
+This summary compiles our discussions so far and can be used for further planning.
+
+*Created with ChatGPT on February 16, 2025.*
